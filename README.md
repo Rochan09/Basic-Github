@@ -1,4 +1,4 @@
-# Basic-Github
+# Hello, there 👋
 learning basics of git and github
 
 # 🚀 Git Commands Quick Guide
